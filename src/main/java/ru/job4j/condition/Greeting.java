@@ -8,13 +8,12 @@ public class Greeting {
 
         System.out.println(idea);
 
-        idea += " But I am a newbie "; // - присоедините к переменной idea строку "But I am a newbie.";
+        idea += " But I am a newbie ";
 
-        int year = 2022; // - создайте переменную year с типом int и присвойте ей текущий год.
+        int year = 2022;
+        idea += year;
 
-        idea += year; // - присоедините к переменной idea переменную year;
-
-        System.out.println(idea); //;- выведите на консоль эту переменную через команду System.out.println(idea);
+        System.out.println(idea);
 
     }
 }
