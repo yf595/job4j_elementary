@@ -16,6 +16,8 @@ public class ArgMethod {
 
         System.out.println("Hello, " + name + ", age = " + age);
 
+        System.out.println("Hello, " + name + ", age = " + age);
+
     }
 
 }
