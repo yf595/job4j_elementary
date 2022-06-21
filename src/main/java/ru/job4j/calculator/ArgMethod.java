@@ -1,7 +1,6 @@
 package ru.job4j.calculator;
 
 public class ArgMethod {
-    
 
     public static void main(String[] args) {
 
